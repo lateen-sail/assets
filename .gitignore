@@ -1,0 +1,7 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+
+# Drafts from my-draw-character (only the confirmed <ID>.png is committed)
+*_[0-9][0-9].png
+*.prompt.txt
